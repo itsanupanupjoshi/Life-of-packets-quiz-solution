@@ -1,0 +1,16 @@
+
+
+1) ARP. Broadcast Packet.
+2) PC2, PC3, PC4. (PC2 & PC3 will dorp the packet).
+3) PC2, PC3, PC1. (PC2 & PC3 will dorp the packet).
+4) PC2, PC3, PC4. (PC2 & PC3 will dorp the packet).
+
+5) ARP Broadcast Packet.
+6) PC6, PC7, PC8
+7) PC5
+8) PC8
+
+
+9) Single broadcast in network 1
+10) Single broadcast in network 2
+11) Network 1 single Collision domain, Network 4 = 4collision domains
